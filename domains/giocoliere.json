@@ -1,0 +1,11 @@
+{
+  "description": "Giocoliere's bunker",
+  "repo": "https://github.com/giocoliere/giocoliere.github.io",
+  "owner": {
+    "username": "giocoliere",
+    "email": "giocoliere@proton.me"
+  },
+  "record": {
+    "CNAME": "giocoliere.github.io"
+  }
+}
